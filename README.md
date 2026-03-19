@@ -1,16 +1,25 @@
-## Hi there 👋
+## Коротко обо мне
+```Меня зовут Александр Койков.```   
+```Увлекаюсь изучением технологий веб-разработки, десктопных приложений, игр. ```  
+```В репозиториях, кроме кода программ, вы также сможете найти заметки и статьи с моими размышлениями по некоторым жизненным темам и не только. Буду рад получить обратную связь по любым вопросам.```
+
+### Уровень образования
+``` В 2011 году окончил обучение в Вятском колледже управления и новых технологий```  
+```по специальности Программное обеспечение вычислительной техники и автоматизированных систем```
+
+### Мой стек технологий
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue) 
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
+![JAVA](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java)
+
+### Обратная связь
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alexkoykov)
 
 <!--
-**alexkoykov/alexkoykov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Статистика на GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkoykov&show_icons=true&hide=prs,issues,contribs&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkoykov&layout=compact&theme=dark)
 -->
