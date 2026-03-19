@@ -15,7 +15,7 @@
 
 ### Обратная связь
 [![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexkoykov)
-[![Static Badge](https://img.shields.io/badge/e--mail-%2326A5E4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexkoykov@inbox.ru)
+[![Static Badge](https://img.shields.io/badge/send%20e--mail-%2326A5E4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexkoykov@inbox.ru)
 
 <!--
 ### Статистика на GitHub
