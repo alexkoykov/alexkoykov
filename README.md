@@ -12,8 +12,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue) 
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
-![JAVA](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=Java)
 
 ### Обратная связь
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/alexkoykov)
