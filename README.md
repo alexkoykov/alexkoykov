@@ -11,11 +11,11 @@
 ![Static Badge](https://img.shields.io/badge/CSS-%232F323A?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/HTML5-%232F323A?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/GIT-%232F323A?style=for-the-badge&logo=git&logoColor=%23F05032)
-[![Static Badge](https://img.shields.io/badge/GIThub-%232F323A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexkoykov)
 
 ### Обратная связь
 [![Static Badge](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexkoykov)
 [![Static Badge](https://img.shields.io/badge/send%20e--mail-%2326A5E4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexkoykov@inbox.ru)
+[![Static Badge](https://img.shields.io/badge/GIThub-%2326A5E4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexkoykov)
 
 <!--
 ### Статистика на GitHub
