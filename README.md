@@ -23,19 +23,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkoykov&layout=compact&theme=dark)
 -->
 
-```mermaid
----
-config:
-  radar:
-    axisScaleFactor: 1
-    axisLabelFactor: 1.1
-    curveTension: 0.05
----
-radar-beta
-  axis m["HTML5"], s["CSS"], e["ENGLISH"]
-  axis h["GIT"], g["HARDWARE"], a["SQL"]
-  curve b["Компетенции"]{75, 75, 40, 50, 85, 40}
-
-  max 100
-  min 0
-```
