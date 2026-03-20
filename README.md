@@ -24,20 +24,15 @@
 -->
 ```mermaid
 ---
----
 config:
   radar:
     axisScaleFactor: 1
     axisLabelFactor: 1.1
     curveTension: 0.05
-    margin-top: 100
-    margin-bottom: 100
-    margin-left: 100
-    margin-right: 100
 ---
 radar-beta
   axis m["HTML5"], s["CSS"], e["ENGLISH"]
-  axis h["GIT"], g["HARDWARE"], a["SQL (NoSQL)"]
+  axis h["GIT"], g["HARDWARE"], a["SQL"]
   curve b["Компетенции"]{75, 75, 40, 50, 85, 40}
 
   max 100
