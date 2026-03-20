@@ -24,11 +24,16 @@
 -->
 ```mermaid
 ---
+---
 config:
   radar:
     axisScaleFactor: 1
     axisLabelFactor: 1.1
     curveTension: 0.05
+    margin-top: 100
+    margin-bottom: 100
+    margin-left: 100
+    margin-right: 100
 ---
 radar-beta
   axis m["HTML5"], s["CSS"], e["ENGLISH"]
