@@ -22,24 +22,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkoykov&show_icons=true&hide=prs,issues,contribs&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexkoykov&layout=compact&theme=dark)
 -->
-```mermaid
----
----
-config:
-  radar:
-    axisScaleFactor: 1
-    axisLabelFactor: 1.1
-    curveTension: 0.05
-    margin-top: 100
-    margin-bottom: 100
-    margin-left: 100
-    margin-right: 100
----
-radar-beta
-  axis m["HTML5"], s["CSS"], e["ENGLISH"]
-  axis h["GIT"], g["HARDWARE"], a["SQL (NoSQL)"]
-  curve b["Компетенции"]{75, 75, 40, 50, 85, 40}
-
-  max 100
-  min 0
-```
