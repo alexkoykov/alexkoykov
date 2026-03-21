@@ -17,8 +17,7 @@
 [![Static Badge](https://img.shields.io/badge/send%20e--mail-%2326A5E4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexkoykov@inbox.ru)
 [![Static Badge](https://img.shields.io/badge/GIThub-%2326A5E4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexkoykov)
 
-### Карта проектов
-
+### Карта моих компетенций
 
 <!--
 ### Статистика на GitHub
