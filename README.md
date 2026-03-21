@@ -17,6 +17,9 @@
 [![Static Badge](https://img.shields.io/badge/send%20e--mail-%2326A5E4?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:alexkoykov@inbox.ru)
 [![Static Badge](https://img.shields.io/badge/GIThub-%2326A5E4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexkoykov)
 
+### Карта проектов
+
+
 <!--
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexkoykov&show_icons=true&hide=prs,issues,contribs&theme=dark)
@@ -24,18 +27,43 @@
 -->
 
 ```mermaid
----
-config:
-  radar:
-    axisScaleFactor: 1
-    axisLabelFactor: 1.1
-    curveTension: 0.05
----
-radar-beta
-  axis m["HTML5"], s["CSS"], e["ENGLISH"]
-  axis h["GIT"], g["HARDWARE"], a["SQL"]
-  curve b["Компетенции"]{75, 75, 40, 50, 85, 40}
+%% START SCRIPT
+graph TD
+%% DEFINE
 
-  max 100
-  min 0
+  ROOT@{shape: processes, label: "**SELF SKILL**"}
+  
+  git@{shape: div-rect, label: "Git"}
+  github@{shape: div-rect, label: "GitHub"}
+
+  lesson_01@{shape: rect, label: "Lesson 01"}
+  lesson_02@{shape: rect, label: "Lesson 02"}
+
+  html@{shape: div-rect, label: "HTML5"}
+  css@{shape: div-rect, label: "CSS"}
+  js@{shape: div-rect, label: "JavaScript"}
+
+%% END DEFINE
+%% LINKS
+
+  click lesson_01 "https://youtu.be/0Y-fneoUIO8"
+  click lesson_02 "https://youtu.be/O00FTZDxD0o"
+
+%% END LINKS
+%% LOGICS
+
+  ROOT ==> CTR_VER
+    subgraph CTR_VER [*CONTROL VERSION*]
+      git --> github 
+      github --> git
+    end
+
+  CTR_VER --> CTR_VER_SRC
+    subgraph CTR_VER_SRC [*HELPFUL TOOLS*]
+      lesson_01
+      lesson_02
+    end  
+
+%% END LOGICS
+%% END SCRIPT
 ```
