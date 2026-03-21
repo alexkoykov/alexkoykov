@@ -36,33 +36,27 @@ graph TD
   git@{shape: div-rect, label: "Git"}
   github@{shape: div-rect, label: "GitHub"}
 
-  lesson_01@{shape: rect, label: "Lesson 01"}
-  lesson_02@{shape: rect, label: "Lesson 02"}
-
   html@{shape: div-rect, label: "HTML5"}
   css@{shape: div-rect, label: "CSS"}
   js@{shape: div-rect, label: "JavaScript"}
 
 %% END DEFINE
-%% LINKS
-
-  click lesson_01 "https://youtu.be/0Y-fneoUIO8"
-  click lesson_02 "https://youtu.be/O00FTZDxD0o"
-
-%% END LINKS
 %% LOGICS
 
   ROOT ==> CTR_VER
-    subgraph CTR_VER [*CONTROL VERSION*]
+    subgraph CTR_VER [CONTROL VERSION]
       git --> github 
       github --> git
     end
 
-  CTR_VER --> CTR_VER_SRC
-    subgraph CTR_VER_SRC [*HELPFUL TOOLS*]
-      lesson_01
-      lesson_02
-    end  
+  ROOT ==> WEB
+    subgraph WEB [WEB TECHNOLOGIES]
+      css --> html 
+      html --> css
+
+      html --> js
+      js --> html
+    end
 
 %% END LOGICS
 %% END SCRIPT
